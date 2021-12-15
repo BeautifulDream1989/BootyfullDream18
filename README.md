@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**BeautifulDream1989/BeautifulDream1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on a new social media omnipresent app ...
+- 🌱 I’m currently learning how very complex this all can be ...
+- 👯 I’m looking to collaborate on everything and anything ....
+- 🤔 I’m looking for help with tricks, hacks, and tools...
+- 💬 Ask anything ...
+
+
+
+
